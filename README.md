@@ -1,0 +1,1 @@
+This is a furniture website project showcasing a clean and modern design, featuring well-organized layouts to highlight furniture products. It aims to deliver a seamless browsing experience, combining aesthetics with functionality, and reflects a strong understanding of Figma design principles.
